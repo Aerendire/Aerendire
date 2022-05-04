@@ -9,9 +9,9 @@ const thai = {
 You can find me:
 - [Youtube][]
 - [Facebook][https://www.facebook.com/eleazar.huamanpanduro/]
-- Instagram
-- Twitter
-- Linkeding
+- [Instagram][]
+- [Twitter][]
+- [Linkedin][]
 <!--
 **Aerendire/Aerendire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
