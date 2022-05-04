@@ -7,8 +7,8 @@ const thai = {
 ```
 
 You can find me:
-- Youtube
-- Facebook
+- [Youtube][]
+- [Facebook][https://www.facebook.com/eleazar.huamanpanduro/]
 - Instagram
 - Twitter
 - Linkeding
