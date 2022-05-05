@@ -1,4 +1,6 @@
 ### Hi i'm Eleazar 👋
+
+## About me in code
 ```javascript
 const thai = {
   code: [Javascript, Typescript, HTML, CSS, Python],
@@ -6,7 +8,7 @@ const thai = {
 }
 ```
 
-You can find me:
+## You can find me :
 - [Youtube](https://www.youtube.com/channel/UCsbo-IqSo7Vlgq7Bvka2ISA)
 - [Facebook](https://www.facebook.com/eleazar.huamanpanduro/)
 - [Instagram](https://www.instagram.com/levihp_/?hl=es-la)
